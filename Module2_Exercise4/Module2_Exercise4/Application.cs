@@ -13,6 +13,6 @@ internal sealed class Application
 
     public void Run()
     {
-        _plate.MakeUtensils();
+        _plate.MakeFood();
     }
 }
